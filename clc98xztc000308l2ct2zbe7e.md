@@ -12,11 +12,11 @@ This means that the first impression is critical and formed within the first 10 
 
 ## The Internet is a crowded place.
 
-The Internet is a crowded place. There are more than 1 billion websites, and the number continues to grow daily. It’s easy to get lost in the noise of all those sites competing for attention, users, and business. If your website isn’t good enough to stand out from the crowd or doesn’t look presentable when it comes up in Google search results, people won't use it, and you won't see any return on your investment (ROI).
+The Internet is a crowded place. There are more than 1 billion websites, and the number continues to grow daily. It's easy to get lost in the noise of all those sites competing for attention, users, and business. If your website isn't good enough to stand out from the crowd or doesn't look presentable when it comes up in Google search results, people won't use it, and you won't see any return on your investment (ROI).
 
 ## User experience is critical.
 
-User experience is critical. What your users think of your website will make them stay, return, or share it with others. A good user experience involves excellent design and content — quite often, it will take some back-and-forth to get it right. For example, if you have a poorly designed site with loads of broken links and outdated information, there's no way that an average user would want to spend any time there. But if you have a well-designed site filled with helpful information about products and services that people need — and if those products/services are all easy to find on the page — you'll likely be giving them a good reason to stick around and explore what else your business has to offer.
+User experience is critical. What your users think of your website will make them stay, return, or share it with others. A good user experience involves excellent design and content — quite often, it will take some back-and-forth to get it right. For example, if you have a poorly designed site with loads of broken links and outdated information, there's no way an average user would want to spend time there. But if you have a well-designed site filled with helpful information about products and services that people need — and if those products/services are all easy to find on the page — you'll likely be giving them a good reason to stick around and explore what else your business has to offer.
 
 In short: don't skimp on the quality of your web design!
 
@@ -24,7 +24,7 @@ In short: don't skimp on the quality of your web design!
 
 Bad design can lead to a high bounce rate, lower conversion rates, and low customer satisfaction.
 
-You might think that the aesthetics of your website aren’t necessary. But the truth is that they are — not just because they affect how much people will like your site. Good web design also involves how quickly users can find what they are looking for on your site (and if they don’t find it immediately, whether or not they decide to stay). In addition, good web design impacts whether or not search engines will rank you highly for relevant keywords and searches. This means that if you want to get found by potential customers searching for what you offer online, then having a professional-looking website is essential!
+You might think that the aesthetics of your website aren't necessary. But the truth is that they are — not just because they affect how much people will like your site. Good web design also involves how quickly users can find what they are looking for on your site (and if they don't find it immediately, whether or not they decide to stay). In addition, good web design impacts whether or not search engines will rank you highly for relevant keywords and searches. This means that if you want to get found by potential customers searching for what you offer online, then having a professional-looking website is essential!
 
 ## Good web design will help your business succeed.
 
@@ -36,7 +36,7 @@ You'd be surprised how many businesses do not realize the importance of good web
 
 ## People judge websites within seconds, and good visual design benefits your business.
 
-It's no secret that people are visual creatures. We judge things by how they look and make decisions based on our first impressions. This is especially true with the Internet because of how many websites there are to choose from and how much time it takes to decide which one we like best.
+It's no secret that people are visual creatures. We judge things by appearance and make decisions based on our first impressions. This is especially true with the Internet because of how many websites there are to choose from and how much time it takes to decide which one we like best.
 
 Your website design has much more influence over whether someone will stay or leave your site than you might think! A study by Google found that 69% of users said their first impression of a business was based on its homepage design (other factors included the company's social media presence).
 
