@@ -6,19 +6,19 @@ If you're looking to create a website for your business, you'll have to decide w
 
 ## Benefits of using a website builder
 
-One of the most significant benefits of using a website builder is the ease of use, which means you can get your site up and running in no time at all. The drag-and-drop interface allows you to add content without having any knowledge of code or HTML. You simply need to drag the items you want onto their corresponding sections, such as text boxes for text entries or images for photos.
+One of the most significant benefits of using a website builder is the ease of use, which means you can get your site up and running in no time. The drag-and-drop interface allows you to add content without knowledge of code or HTML. You simply need to drag the items you want onto their corresponding sections, such as text boxes for text entries or images for photos.
 
-Website builders are also cost-effective because they allow you to create your website without having to pay a developer's salary. Plus, many of these services offer free trials so that you can try them out before committing yourself.
+Website builders are also cost-effective because they allow you to create your website without paying a developer's salary. Plus, many of these services offer free trials to try them out before committing yourself.
 
-Another benefit is design flexibility: website builders usually have hundreds of templates so there's no shortage when it comes time to select one that matches their brand identity best! However, this may be negative if you're looking for a unique look on your website.
+Another benefit is design flexibility: website builders usually have hundreds of templates, so there's no shortage when selecting one that matches their brand identity best! However, this may be negative if you're looking for a unique look on your website.
 
 ## Drawbacks of using a website builder
 
 Drawbacks of using a website builder:
 
-* Design limitations. Most website builders have limited design options. They usually don't allow you to customize the color scheme or fonts, for example. In addition, some website builders are better than others at handling responsive design (a technique that makes websites look good on different screen sizes). If you have specific design requirements and want complete control over how your site looks and operates, consider hiring an experienced web designer instead of using a DIY tool like Wix or Squarespace.
+* Design limitations. Most website builders have limited design options. For example, they usually don't allow you to customize the colour scheme or fonts. In addition, some website builders are better than others at handling responsive design (a technique that makes websites look good on different screen sizes). If you have specific design requirements and want complete control over how your site looks and operates, consider hiring an experienced web designer instead of using a DIY tool like Wix or Squarespace.
     
-* Scalability issues. Many small businesses start with just one product or service but grow into larger operations over time as they add additional products/services and staff members who need access to company resources such as calendars, email accounts etcetera - and this can become difficult if your initial choice wasn't built with scalability in mind because most do not offer features such as multiple user logins or file-sharing capabilities between team members until after purchase which means they could end up costing more money later down the road when trying to fix these problems yourself using custom code instead
+* Scalability issues. Many small businesses start with just one product or service but grow into more extensive operations over time as they add additional products/services and staff members who need access to company resources such as calendars, email accounts, etcetera - and this can become difficult if your initial choice wasn't built with scalability in mind because most do not offer features such as multiple user logins or file-sharing capabilities between team members until after purchase which means they could end up costing more money later down the road when trying to fix these problems yourself using custom code instead.
     
 
 ## Benefits of writing custom code
@@ -40,4 +40,4 @@ While a custom-coded website has many benefits, it also has some drawbacks.
 
 ## Conclusion
 
-With all of this information in mind, it's clear that there are advantages and disadvantages to both methods. Website builders offer a quick, easy way to create a website that looks professional without having to write any code. However, they don't allow as much customization or flexibility as custom coding does - and even then, if you want something unique or different from what's out there already (like an entirely new type of website), then you'll probably need some help from experts!
+With all of this information in mind, it's clear that there are advantages and disadvantages to both methods. Website builders offer a quick, easy way to create a website that looks professional without writing code. However, they don't allow as much customization or flexibility as custom coding does - and even then, if you want something unique or different from what's out there already (like an entirely new type of website), you'll probably need some help from experts!
