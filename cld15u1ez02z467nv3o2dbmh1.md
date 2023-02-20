@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Serverless computing is an exciting new technology that has the potential to reduce some of the complexities in app development. It can also help you get your apps up and running faster, which is especially useful if you're building something as part of a sprint or hackathon. In this article, we'll discuss what serverless computing is and why it makes sense for developers to adopt it into their workflow.
+Serverless computing is an exciting new technology that can potentially reduce some of the complexities in app development. It can also help you get your apps up and running faster, which is especially useful if you're building something as part of a sprint or hackathon. In this article, we'll discuss what serverless computing is and why it makes sense for developers to adopt it into their workflow.
 
 ## What is Serverless?
 
@@ -33,20 +33,20 @@ As you can see, serverless computing has many benefits and use cases. For exampl
 
 ## When Is Serverless Computing Not a Good Fit?
 
-Serverless computing isn't a good fit for every situation. The biggest drawback is that you can only access your data through the AWS Lambda functions uploaded to Amazon. If you need more control over your servers, or if your application needs to be accessible outside of Amazon, then serverless isn't work for you.
+Serverless computing isn't a good fit for every situation. The biggest drawback is that you can only access your data through the AWS Lambda functions uploaded to Amazon. If you need more control over your servers or your application needs to be accessible outside of Amazon, then serverless isn't work for you.
 
 Additionally, if you have a lot of data to store — like hundreds or thousands of gigabytes — the cost may become prohibitively expensive with serverless computing because it requires direct access to storage space on AWS servers and bandwidth costs.
 
-If storing data for long periods is essential for your application (for example, if it must process extensive file archives), then remember that most "serverless" services will delete files after 30 days unless explicitly saved by the user.
+If storing data for long periods is essential for your application (for example, if it must process extensive file archives), remember that most "serverless" services will delete files after 30 days unless explicitly saved by the user.
 
 ## Serverless computing benefits enterprises in various ways
 
-Serverless computing is still a relatively new concept and will continue to evolve. Although some organizations already use serverless computing as part of their cloud strategy, most remain on the sidelines. However, many use cases can benefit enterprises as they pursue serverless computing and develop their strategy for leveraging it.
+Serverless computing is still a relatively new concept and will continue to evolve. Although some organizations already use serverless computing as a cloud strategy, most remain on the sidelines. However, many use cases can benefit enterprises as they pursue serverless computing and develop their strategy for leveraging it.
 
 ## Simplifying Development with Serverless Computing
 
-Serverless computing can be a great way to reduce some of the complexities in app development. With serverless applications, developers don't have to worry about managing and scaling a server infrastructure. Instead, they can focus on building their core product or service and let the cloud provider handle everything else. This means more time to focus on their core competencies while saving money on resources that would otherwise be spent managing servers and infrastructure like networking, load balancing, and database management.
+Serverless computing can be a great way to reduce some of the complexities in app development. With serverless applications, developers don't have to worry about managing and scaling a server infrastructure. Instead, they can focus on building their core product or service and let the cloud provider handle everything. This means more time to focus on their core competencies while saving money on resources that would otherwise be spent managing servers and infrastructure like networking, load balancing, and database management.
 
 ## Conclusion
 
-Serverless computing is a powerful tool for developers to use. It can help them build faster, more efficient applications that are easier to maintain and scale. The technology is still new, and many use cases can benefit enterprises. However, before jumping into serverless computing, it's essential to understand the benefits and limitations of this approach so that you know if it fits your needs!
+Serverless computing is a powerful tool for developers to use. It can help them build faster, more efficiently, easier to maintain, and scale applications. The technology is still new, and many use cases can benefit enterprises. However, before jumping into serverless computing, it's essential to understand the benefits and limitations of this approach so that you know if it fits your needs!
