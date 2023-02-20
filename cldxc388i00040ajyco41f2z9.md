@@ -2,21 +2,21 @@
 
 ## Introduction
 
-If you're looking to create a website for your business, you'll have to decide whether to use a website builder or write custom code. While both options have pros and cons, several factors can help guide your decision.
+To create a website for your business, you must decide whether to use a website builder or write custom code. While both options have pros and cons, several factors can help guide your decision.
 
 ## Benefits of using a website builder
 
-One of the most significant benefits of using a website builder is the ease of use, which means you can get your site up and running in no time. The drag-and-drop interface allows you to add content without knowledge of code or HTML. You simply need to drag the items you want onto their corresponding sections, such as text boxes for text entries or images for photos.
+One of the most significant benefits of using a website builder is the ease of use, which means you can get your site up and running in no time. The drag-and-drop interface allows you to add content without knowledge of code or HTML. You need to drag the items you want onto their corresponding sections, such as text boxes for text entries or images for photos.
 
 Website builders are also cost-effective because they allow you to create your website without paying a developer's salary. Plus, many of these services offer free trials to try them out before committing yourself.
 
-Another benefit is design flexibility: website builders usually have hundreds of templates, so there's no shortage when selecting one that matches their brand identity best! However, this may be negative if you're looking for a unique look on your website.
+Another benefit is design flexibility: website builders usually have hundreds of templates, so there's no shortage when selecting one that matches their brand identity best! However, this may be negative if you want a unique look on your website.
 
 ## Drawbacks of using a website builder
 
 Drawbacks of using a website builder:
 
-* Design limitations. Most website builders have limited design options. For example, they usually don't allow you to customize the colour scheme or fonts. In addition, some website builders are better than others at handling responsive design (a technique that makes websites look good on different screen sizes). If you have specific design requirements and want complete control over how your site looks and operates, consider hiring an experienced web designer instead of using a DIY tool like Wix or Squarespace.
+* Design limitations. Most website builders have limited design options. For example, they usually don't allow you to customize the color scheme or fonts. In addition, some website builders are better than others at handling responsive design (a technique that makes websites look good on different screen sizes). If you have specific design requirements and want complete control over your site's appearance and operation, consider hiring an experienced web designer instead of using a DIY tool like Wix or Squarespace.
     
 * Scalability issues. Many small businesses start with just one product or service but grow into more extensive operations over time as they add additional products/services and staff members who need access to company resources such as calendars, email accounts, etcetera - and this can become difficult if your initial choice wasn't built with scalability in mind because most do not offer features such as multiple user logins or file-sharing capabilities between team members until after purchase which means they could end up costing more money later down the road when trying to fix these problems yourself using custom code instead.
     
@@ -25,7 +25,7 @@ Drawbacks of using a website builder:
 
 You may wonder, "What can I do with custom code that a website builder won't let me do?" There are many benefits to using custom code over a website builder.
 
-First, it gives you more flexibility and customization options. For example, you can create any page layout that you want--from a simple blog post to an eCommerce store - and customize it however you'd like. You also have complete control over how the site functions, which means that if there's something about your site that isn't working quite right yet or isn't working at all (like broken links), then fixing this issue will be easier since it's not something built into the platform itself but rather part of your customizations.
+First, it gives you more flexibility and customization options. For example, you can create any page layout you want--from a simple blog post to an eCommerce store - and customize it however you'd like. You also have complete control over how the site functions, which means that if there's something about your site that isn't working quite right yet or isn't working at all (like broken links), then fixing this issue will be easier since it's not something built into the platform itself but rather part of your customizations.
 
 Second, writing custom-coded solutions usually gives websites better performance and load times than if built in WordPress or another CMS (content management system). This is because these platforms rely heavily on plugins and themes; at the same time, these tools can provide valuable features such as image galleries and contact forms, they often come at the cost of loading speed due to heavy processing requirements needed for each new feature added onto them by developers who build them after-market rather than having been developed during development time itself.
 
