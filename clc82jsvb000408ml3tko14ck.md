@@ -6,9 +6,9 @@ The web is a powerful tool. It can share information, connect people, and foster
 
 ## The Digital Divide and the Importance of Web Accessibility
 
-The web is where everyone can come together, but unfortunately, not all can. Some digital users may face challenges accessing information online due to their disability or impairment.
+The web is where everyone can come together, but unfortunately, not all can. Some digital users may face challenges accessing information online due to disability or impairment.
 
-Accessibility has become more critical than ever because of the digital divide—the gap between those with technology and those without it. The gap widens when you factor in new platforms like voice assistants and smart home devices that require an internet connection to function correctly. They won't work if you can't navigate these devices through your browser or mobile app.
+Accessibility has become more critical than ever because of the digital divide—the gap between those with and without technology. The gap widens when you factor in new platforms like voice assistants and smart home devices that require an internet connection to function correctly. They won't work if you can't navigate these devices through your browser or mobile app.
 
 ## The History, Laws, and Policies Governing Web Accessibility
 
@@ -33,7 +33,7 @@ Many tools can help you create accessible websites and make them more usable for
 
 * Use a grid system so that all elements on the page have a consistent structure and hierarchy. This will make it easier for users with dyslexia or other reading difficulties to scan through pages quickly while still getting an overview of what they're looking at.
     
-* Make sure you have good contrast between text colour and background colour by using tools like WebAIM Color Contrast Checker or Lea VeVerou'sontrast Ratio Calculator.
+* Use tools like WebAIM Color Contrast Checker or Lea VeVerou'sontrast Ratio Calculator to make sure you have good contrast between text and background color.
     
 * Test your site with NVDA Screen Reader Emulator or VoiceOver on macOS.
     
@@ -48,4 +48,4 @@ Fortunately, there are ways you can make your website more accessible without br
 
 ## Conclusion
 
-As a designer and developer, you have the power to create experiences for all kinds of people—and that's why web accessibility is so important. ItIt'sot just about legal requirements anymore; it's about creating genuinely inclusive experiences. If you want to get started with accessibility in your projects, plenty of resources are available to help you along the way. No matter where you start or your expertise level, making your site more accessible will always be worth it!
+As a designer and developer, you have the power to create experiences for all kinds of people—and that's why web accessibility is so important. ItIt'sot just about legal requirements anymore; it's about creating genuinely inclusive experiences. If you want to get started with accessibility in your projects, plenty of resources are available to help you. No matter where you start or your expertise level, making your site more accessible will always be worth it!
