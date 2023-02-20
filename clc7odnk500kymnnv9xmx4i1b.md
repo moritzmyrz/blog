@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Many developers think of debugging as a last resort, something to do only when there is no other solution. But debugging is a necessary part of any development process. For example, bugs in the code can lead to performance issues, security vulnerabilities, and even crashes on your website. These problems can be costly for businesses and their customers alike.
+Many developers consider debugging a last resort, something to do only when there is no other solution. But debugging is a necessary part of any development process. For example, bugs in the code can lead to performance issues, security vulnerabilities, and even crashes on your website. These problems can be costly for businesses and their customers alike.
 
 In this article, we'll look at the best tools for debugging websites and how they can help you solve those pesky bugs that seem impossible to track down!
 
@@ -44,16 +44,16 @@ You should also be aware of expectations: if you expect something to happen in a
 
 * Browser developer tools are built into browsers like Chrome and Firefox, and developers use them to debug websites.
     
-* Web development tools are standalone applications that allow you to debug websites. They're more potent than browser dev tools because they let you view your code in real time while it's running on a server and then make changes without having to reload the page every time.
+* Web development tools are standalone applications that allow you to debug websites. They're more potent than browser dev tools because they let you view your code in real time while running on a server and then make changes without reloading the page every time.
     
 
 ## How to use browser development tools (aka dev tools).
 
-Browser development tools are used to diagnose, fix and test websites. These tools have been around for years and have become a staple part of developing websites. They allow you to see what's going on with your website regarding resources, performance, and user interaction. Browser development tools are available in all major browsers (Chrome, Safari, Firefox) and can be accessed through their respective menu options: File &gt; Inspect Element.
+Browser development tools are used to diagnose, fix and test websites. These tools have been around for years and have become a staple of website development. They allow you to see what's going on with your website regarding resources, performance, and user interaction. Browser development tools are available in all major browsers (Chrome, Safari, Firefox) and can be accessed through their respective menu options: File &gt; Inspect Element.
 
 ## They are fixing bugs using browser dev tools.
 
-The developer tools in your browser are essential for debugging your website. You can find these by opening up Chrome, then clicking on the three dots icon in the top right corner of your browser and selecting "Developer Tools".
+The developer tools in your browser are essential for debugging your website. You can find these by opening Chrome, then clicking on the three dots icon in the top right corner of your browser and selecting "Developer Tools."
 
 You'll see a panel on the right side of your screen that contains all kinds of information about what happens when you visit a page on your site—like how long it takes for certain elements to load or how many bytes are being downloaded per second.
 
@@ -65,12 +65,12 @@ The most valuable part of this panel is probably its JavaScript console, which w
     
 * They describe the problem in a clear and precise way. One of the most common reasons people don't get good answers from their peers is because they haven't clearly expressed their questions or described what they want help with. You must make use of all of these tools when describing your issue!
     
-* Using correct terminology: For example, instead of saying, "I want this block header image centred," say, "I want this image centred in my header." Suppose everyone uses different language when talking about web design problems. In that case, it can become confusing and complicated for people who don't know much about web design (like me!) to understand what other people are talking about! So please try not to mix up terms like left/right/centre—they mean different things depending on the context!
+* Using correct terminology: For example, instead of saying, "I want this block header image centered," say, "I want this image centered in my header." Suppose everyone uses different language when talking about web design problems. In that case, it can become confusing and complicated for people who don't know much about web design (like me!) to understand what others are discussing! So please try not to mix up terms like left/right/center—they mean different things depending on the context!
     
 
 ## If you approach debugging systematically, the solution is always within reach.
 
-Debugging is a systematic process that involves identifying and fixing problems. This way, debugging is a problem-solving process that helps you create and maintain a functional website. It's not just about finding bugs — it's about making sure your website works as it should.
+Debugging is a systematic process that involves identifying and fixing problems. This way, debugging is a problem-solving process that helps you create and maintain a functional website. It's not just about finding bugs — it's about ensuring your website works as it should.
 
 ## Conclusion
 
